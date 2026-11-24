@@ -1,0 +1,16 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "description": "prova final 1 ds 4 bimestre",
+  "license": "ISC",
+  "author": "Bryan Queiroz",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
